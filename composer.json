@@ -1,0 +1,20 @@
+{
+    "name": "jose/tarearecuperacion1",
+    "description": "Tarea recuperacion 1",
+    "type": "project",
+    "license": "gnu/gpl",
+    "autoload": {
+        "psr-4": {
+            "Tarearecuperacion1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jlopbal3003",
+            "email": "jseantoniolopez@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}

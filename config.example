@@ -1,0 +1,7 @@
+;renombralo a .config
+;completando con tus credenciales
+[opciones]
+host=host
+bbdd=bbdd
+usuario=usuario
+pass=pass
